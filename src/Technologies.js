@@ -12,5 +12,5 @@ const Technologies = () =>{
         </div>
     )
 }
-еуіе
+
 export default Technologies;
