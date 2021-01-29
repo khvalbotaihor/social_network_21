@@ -1,12 +1,11 @@
 import React from 'react';
 import "./App.css"
+import Header from "./components/Header";
 
 const App = () => {
     return (
         <div className="app-wrapper">
-            <header className="header">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Brisbane_Roar_FC_logo.svg/1200px-Brisbane_Roar_FC_logo.svg.png" />
-            </header>
+           <Header />
             <nav className="nav">
                 <div>Profile</div>
                 <div>Messages</div>
