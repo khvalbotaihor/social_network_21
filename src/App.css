@@ -14,14 +14,7 @@
     background-color: burlywood;
 }
 
-.header {
-    grid-area: h;
-    background-color: green;
-}
 
-.header img{
-    width: 40px;
-}
 
 .content {
     grid-area: c;
